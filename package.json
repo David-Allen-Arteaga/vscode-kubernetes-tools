@@ -1322,7 +1322,7 @@
         "redhat.vscode-yaml"
     ],
     "dependencies": {
-        "@kubernetes/client-node": "^0.14.0",
+        "@kubernetes/client-node": "^1.1.0",
         "ajv": "^6.9.1",
         "ansi-to-html": "^0.7.2",
         "await-notify": "^1.0.1",
@@ -1386,7 +1386,7 @@
         "@typescript-eslint/eslint-plugin": "^4.28.1",
         "@typescript-eslint/eslint-plugin-tslint": "4.28.1",
         "@typescript-eslint/parser": "^4.28.1",
-        "electron": "^13.1.4",
+        "electron": "^33.4.3",
         "eslint": "^7.29.0",
         "file-loader": "^6.2.0",
         "gulp": "^4.0.2",
