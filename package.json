@@ -1322,7 +1322,7 @@
         "redhat.vscode-yaml"
     ],
     "dependencies": {
-        "@kubernetes/client-node": "^0.14.0",
+        "@kubernetes/client-node": "^0.22.3",
         "ajv": "^6.9.1",
         "ansi-to-html": "^0.7.2",
         "await-notify": "^1.0.1",
