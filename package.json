@@ -1322,7 +1322,7 @@
         "redhat.vscode-yaml"
     ],
     "dependencies": {
-        "@kubernetes/client-node": "^0.14.0",
+        "@kubernetes/client-node": "^0.21.0",
         "ajv": "^6.9.1",
         "ansi-to-html": "^0.7.2",
         "await-notify": "^1.0.1",
@@ -1350,7 +1350,7 @@
         "shelljs": "^0.7.7",
         "spawn-rx": "^3.0.0",
         "sshpk": "^1.13.2",
-        "tar": "^4.4.1",
+        "tar": "^7.5.7",
         "tmp": "^0.0.31",
         "unzipper": "^0.10.5",
         "url-parse": "^1.5.1",
